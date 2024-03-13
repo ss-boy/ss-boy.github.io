@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>物理光学</title>
+    <link href="/2024/03/13/%E7%89%A9%E7%90%86%E5%85%89%E5%AD%A6%E4%B9%A0%E9%A2%98/"/>
+    <url>/2024/03/13/%E7%89%A9%E7%90%86%E5%85%89%E5%AD%A6%E4%B9%A0%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<img src="../picture/image-20240313094859462.png" alt="image-20240313094859462" style="zoom: 33%;" /><img src="../picture/image-20240313095334029.png" alt="image-20240313095334029" style="zoom:33%;" /><img src="../picture/image-20240313094926503.png" alt="image-20240313094926503" style="zoom:33%;" /><img src="../picture/image-20240313095621379.png" alt="image-20240313095621379" style="zoom:33%;" />]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>数学圆锥曲线</title>
     <link href="/2024/03/11/%E6%95%B0%E5%AD%A6%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/"/>
     <url>/2024/03/11/%E6%95%B0%E5%AD%A6%E5%9C%86%E9%94%A5%E6%9B%B2%E7%BA%BF/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h4 id="椭圆："><a href="#椭圆：" class="headerlink" title="椭圆："></a>椭圆：</h4><p>椭圆定义：平面内与俩个定点F1，F2的距离的和等于常数2a（大于|F1F2|)的点的轨迹叫做椭圆。其中这俩个定点叫做椭圆的焦点，俩焦点的距离2c叫椭圆的焦距。若M为椭圆上任意一点，则有|MF1|+|MF2|&#x3D;2a。<br>$$<br>\frac{x^2}{a^2}+\frac{y^2}{b^2}&#x3D;1 (a&gt;b&gt;0)(焦点在x轴上) \<br> \frac{y^2}{a^2}+\frac{x^2}{b^2}&#x3D;1 (a&gt;b&gt;0)(焦点在y轴上)<br>$$</p>]]></content>
     
     
     
